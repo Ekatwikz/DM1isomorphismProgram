@@ -1,0 +1,5 @@
+# vim shit
+*.swp
+
+# executables
+*.exe
