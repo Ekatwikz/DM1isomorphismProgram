@@ -11,7 +11,7 @@ using std::vector;
 class Graph {
 private:
 	size_t size;
-	vector<vector<bool>> adjacency; // sizez*size square adjacency matrix
+	vector<vector<bool>> adjacency; // size*size square adjacency matrix
 
 public:
 	Graph(string adjacencyString = "");
